@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <CustomerID>456789</CustomerID>
+    <CustomerName>Sam Billings</CustomerName>
+    <CustomerPhone<>4681257896</CustomerPhone<>
+    <CustomerAddress>7712 heather ridge ct, Texas</CustomerAddress>
+  </row>
+
+  <row>
+    <CustomerID>449821</CustomerID>
+    <CustomerName>John Smith </CustomerName>
+    <CustomerPhone>4691287569</CustomerPhone>
+    <CustomerAddress>1289 Chicago, Illinois</CustomerAddress>
+  </row>
+
+  <row>
+    <CustomerID>328145</CustomerID>
+    <CustomerName>James Andrew</CustomerName>
+    <CustomerPhone>1289453178</CustomerPhone>
+    <CustomerAddress>1111 Newyork, USA. </CustomerAddress>
+  </row>
+ </root>

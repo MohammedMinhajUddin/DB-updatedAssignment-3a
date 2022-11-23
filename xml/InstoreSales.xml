@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <ItemID>129456</ItemID>
+    <ItemName>AquaMan Action Fugure</ItemName>
+    <ItemType>product</ItemType>
+    <InStock>Yes</InStock>
+  </row>
+  <row>
+    <ItemID>120989</ItemID>
+    <ItemName>Aquaman Printed Bag</ItemName>
+    <ItemType>product</ItemType>
+    <InStock>Yes</InStock>
+  </row>
+  <row>
+    <ItemID>12330</ItemID>
+    <ItemName>Aquaman Props</ItemName>
+    <ItemType>product</ItemType>
+    <InStock>Yes</InStock>
+  </row>
+</root>

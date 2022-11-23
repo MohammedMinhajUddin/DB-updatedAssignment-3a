@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <EmployeeID>11110000</EmployeeID>
+    <TeamName>Back-Office</TeamName>
+    <Attendance>100</Attendance>
+    <Performance>99</Performance>
+  </row>
+  <row>
+    <EmployeeID>10101010</EmployeeID>
+    <TeamName>Manufacturing</TeamName>
+    <Attendance>99</Attendance>
+    <Performance>95</Performance>
+  </row>
+  <row>
+    <EmployeeID>11001100</EmployeeID>
+    <TeamName>Logistics</TeamName>
+    <Attendance>80</Attendance>
+    <Performance>88</Performance>
+  </row>
+</root>

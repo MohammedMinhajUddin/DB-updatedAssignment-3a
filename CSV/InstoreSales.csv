@@ -1,0 +1,4 @@
+SalesID,CustomerName,AmountBilled,PaymentInfo,EmployeeID
+465789,John Smith,128,DC,109845
+123465,Sam billings,99,CC,111000
+543210,James Andrew,80,Cash,101010

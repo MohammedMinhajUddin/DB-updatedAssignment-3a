@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <VendorID>402109</VendorID>
+    <ItemName>Butadine Plastic</ItemName>
+    <ItemType>Manufacturing</ItemType>
+    <ConsignmentID>109100</ConsignmentID>
+  </row>
+  <row>
+    <VendorID>450120</VendorID>
+    <ItemName>Printers</ItemName>
+    <ItemType>Back-office</ItemType>
+    <ConsignmentID>108101</ConsignmentID>
+  </row>
+  <row>
+    <VendorID>441100</VendorID>
+    <ItemName>Tools</ItemName>
+    <ItemType>Manufacturing</ItemType>
+    <ConsignmentID>170170</ConsignmentID>
+  </row>
+</root>
